@@ -1,0 +1,25 @@
+{
+    "phone" : 
+    {
+    "rightphonenumber" :  "01013566878",
+    "wrongphonenumber": "01231231100"
+    },
+    "user" : 
+    {
+    "username": "tony",
+    "familyname": "zakaria"
+    },
+    "company" :
+    {
+        "companyname" : "company",
+        "companytax" : "123123123"
+    },
+    "otp" : "123123",
+    "password" : 
+    {
+        "wrongpassword":"234234",
+        "rightpassword":"28369"
+    }
+
+
+}
