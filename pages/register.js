@@ -76,7 +76,7 @@
           const countryCode = '0';
         
           // Generate a random area code (between 10 and 19)
-          const areaCode = '1' + (Math.floor(Math.random() * 10) + 0);
+          const areaCode = '12';
         
           // Generate a random 8-digit local number
           const localNumber = Math.floor(10000000 + Math.random() * 90000000);
